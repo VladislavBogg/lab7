@@ -1,0 +1,5 @@
+#272727 - black
+#747474 - gray
+#ff652f - red
+#ffe400 - yellow
+#14a76c - green
